@@ -1,6 +1,6 @@
 import psycopg2
-import pandas as pd
-from src.config import config
+# import pandas as pd
+# from src.config import config
 
 connector = config()
 
